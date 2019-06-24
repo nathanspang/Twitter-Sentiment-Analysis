@@ -4,10 +4,11 @@
   -Output
       * text visuals (word map)
       * histograms 
-      * 
+      
 (2) API practice and sample codes 
    - connecting and getting Data (Nathan)
    - model running with sample data
+   
 (3) Text preprocessing and data mining 
   
 (4) Data Analysis and ML modeling 
@@ -15,5 +16,7 @@
   - ML analysis (Wataru) 
   - NN and Logistic Regression/ Lasso Regression (Nathan)
   -Cross Validation, Data sampling (Wataru) 
+  
 (5) Presentation 
-  - we rock 
+  - Website version (Nathan)
+  -Ipython and powerpoint (Wataru)
